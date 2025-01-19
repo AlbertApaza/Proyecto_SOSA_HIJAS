@@ -1,0 +1,4 @@
+AddType model/gltf-binary .glb
+AddType model/gltf+json .gltf
+
+
